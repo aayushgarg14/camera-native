@@ -1,0 +1,4 @@
+#Thu Jul 26 17:23:32 IST 2018
+base.0=/Users/maverick/Projects/github/react-native/camera-native/android/app/build/intermediates/transforms/dexMerger/debug/23
+path.0=classes.dex
+renamed.0=classes.dex
