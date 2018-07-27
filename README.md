@@ -1,5 +1,3 @@
-## Camera Native
+# Camera Native
 
-This project will contain all the features provided by react-native-camera.
-
-### This project was bootstrapped with Create React Native App.
+A basic implementation of Camera using React Native. Includes a feature to preview photo before uploading. Play around with it.
